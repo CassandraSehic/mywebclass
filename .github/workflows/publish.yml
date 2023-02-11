@@ -8,7 +8,7 @@ on:
       - 'v*'
 
 env:
-  DOCKER_REPO_NAME: CassandraSehic/mywebclass
+  DOCKER_REPO_NAME: cns27/mywebclass
 
 jobs:
   build:
